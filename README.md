@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IamTS9
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on beginner python projects
 - 📫 How to reach me tanishsakdeo09@gmail.com
 
