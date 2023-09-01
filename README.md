@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @IamTS9.
-- 👀 I’m interested in Python. 
-- 💞️ I’m looking forward to collaborate with other python devlopers.
+- 👀 I’m interested in Python, Data Science and Machine Learning. 
+- 💞️ I’m looking forward to collaborate with other Python devlopers.
 - 📫 How to reach me tanishsakdeo09@gmail.com.
 
 <!---
